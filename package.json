@@ -1,8 +1,13 @@
 {
   "name": "reduksi.github.io",
+  "homepage": "https://github.com/reduksi/reduksi.github.io",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "dompurify": "^2.0.8",
+    "prop-types": "^15.7.2",
+    "react-helmet": "^5.2.1",
+    "react-router-dom": "^5.1.2",
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
     "@testing-library/user-event": "^7.2.1",
@@ -14,7 +19,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -30,5 +37,16 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^3.1.0",
+    "antd": "^3.20.7",
+    "axios": "^0.19.0",
+    "babel-eslint": "10.0.1",
+    "eslint": "5.16.0",
+    "eslint-plugin-jest": "^22.17.0",
+    "eslint-plugin-react": "^7.14.3",
+    "eslint-plugin-react-hooks": "^2.0.1",
+    "node-sass": "^4.12.0"
   }
 }
