@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/reduksi/reduksi.github.io/static/css/main.5f361e03.chunk.css",
+    "main.js": "/reduksi/reduksi.github.io/static/js/main.af68908c.chunk.js",
+    "main.js.map": "/reduksi/reduksi.github.io/static/js/main.af68908c.chunk.js.map",
+    "runtime-main.js": "/reduksi/reduksi.github.io/static/js/runtime-main.f8c83084.js",
+    "runtime-main.js.map": "/reduksi/reduksi.github.io/static/js/runtime-main.f8c83084.js.map",
+    "static/js/2.01ea5922.chunk.js": "/reduksi/reduksi.github.io/static/js/2.01ea5922.chunk.js",
+    "static/js/2.01ea5922.chunk.js.map": "/reduksi/reduksi.github.io/static/js/2.01ea5922.chunk.js.map",
+    "index.html": "/reduksi/reduksi.github.io/index.html",
+    "precache-manifest.6426677bc1c9f38ae856250cd710ecbe.js": "/reduksi/reduksi.github.io/precache-manifest.6426677bc1c9f38ae856250cd710ecbe.js",
+    "service-worker.js": "/reduksi/reduksi.github.io/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/reduksi/reduksi.github.io/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.01ea5922.chunk.js.LICENSE.txt": "/reduksi/reduksi.github.io/static/js/2.01ea5922.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/reduksi/reduksi.github.io/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f8c83084.js",
+    "static/js/2.01ea5922.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.af68908c.chunk.js"
+  ]
+}
